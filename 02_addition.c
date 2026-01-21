@@ -1,8 +1,7 @@
-// Introduction Of c Language
-
 #include <stdio.h>
-int main()
-{
+
+
+int main(){
 
   int a, b, sum;
   system("cls"); // Program start and screen clear
