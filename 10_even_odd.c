@@ -12,6 +12,4 @@ int main (){
     }else{
         printf("Odd Number : %d",n);
     }
-
-
 }
