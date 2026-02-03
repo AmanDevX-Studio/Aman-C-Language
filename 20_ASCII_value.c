@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(){
+    system("cls");
     char ch;
 
     printf("Enter ASCII Value : ");
